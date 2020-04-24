@@ -1,4 +1,4 @@
-# autp_widget
+# auto_widget
 
 A new Flutter project.
 
